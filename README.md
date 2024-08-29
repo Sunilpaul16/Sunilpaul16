@@ -8,7 +8,7 @@
 <li>🌱 I’m currently learning everything 🤣.</li>
 <li>👨‍💻 Most of my projects are available on <a href="https://github.com/Sunilpaul16">Github</a>.</li>
 <li>👯 I’m looking to collaborate with other.</li>
-<li>💬 Ping me about <strong>react , security, and cloud stuff</strong>.</li>
+<li>💬 Ping me about <strong>react, security, and cloud stuff</strong>.</li>
 <li>📙 Check out my<a href="https://www.linkedin.com/in/sunilpaul16" target="blank"> Linkedin.</a></li>
 <li>⚡ Fun fact: Big Fan of the ⚡ emoji</li>
 </ul>
